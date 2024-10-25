@@ -1,5 +1,8 @@
 # quero_passagem_test
 
+Esse teste foi desenvolvido por mim e todo o processo de criação foi feito no meu Gitlab: https://gitlab.com/felipeixotont/quero_passagem_test
+Aqui no Github fiz somente a cópia do que desenvolvi para deixar de portfólio.
+
 ## Para rodar esse projeto você deve:
 
 - Criar ambiente virtual: python3 -m venv venv
